@@ -1,0 +1,5 @@
+.env
+
+# kafka cli directory
+kafka-cli/*
+!kafka-cli/.gitkeep
